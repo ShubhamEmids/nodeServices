@@ -1,5 +1,6 @@
 {
   "name": "sampleproject",
+  "version": "0.0.1",
   "author": "shubham chaturvedi",
   "description": "sample project",
   "dependencies": {
