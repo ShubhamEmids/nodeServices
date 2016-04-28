@@ -3,7 +3,7 @@
     "code" : "200",
     "message" : "success",
     "offlineStatus" : false,
-    "payload" : {
+    "user" : {
       "firstname":"Shubham",
       "lastname":"Chaturvedi",
       "code":"node-server-sample-code",
